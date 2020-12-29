@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Server</RootNamespace>
-    <StartupObject>Server.Form1</StartupObject>
+    <StartupObject>Server.SMAIN</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <ApplicationIcon>favicon.ico</ApplicationIcon>
