@@ -69,6 +69,7 @@ Partial Class CMAIN
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.StatusStrip1)
         Me.Controls.Add(Me.PictureBox1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "CMAIN"
         Me.Text = "Helpdesk Client"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
