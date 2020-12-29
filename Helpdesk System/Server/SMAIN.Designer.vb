@@ -22,9 +22,16 @@ Partial Class SMAIN
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container
+        Me.SuspendLayout()
+        '
+        'SMAIN
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Text = "SMAIN"
+        Me.Name = "SMAIN"
+        Me.Text = "Helpdesk Server"
+        Me.ResumeLayout(False)
+
     End Sub
 End Class
