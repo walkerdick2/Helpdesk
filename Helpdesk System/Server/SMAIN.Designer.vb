@@ -71,7 +71,7 @@ Partial Class SMAIN
         Me.DGMAiN.Location = New System.Drawing.Point(13, 76)
         Me.DGMAiN.Name = "DGMAiN"
         Me.DGMAiN.RowTemplate.Height = 25
-        Me.DGMAiN.Size = New System.Drawing.Size(240, 150)
+        Me.DGMAiN.Size = New System.Drawing.Size(597, 333)
         Me.DGMAiN.TabIndex = 2
         '
         'SMAIN
